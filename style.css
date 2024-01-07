@@ -373,7 +373,7 @@ iframe {
   right:0;
   width:60vw;
   height: 100vh;
-  background-color:black ;
+  background-color: rgb(123 36 101);
   z-index: 999;
   display: none;
 
