@@ -12,3 +12,14 @@ const closeClicked=()=>{
 
     console.log("clicked");
 }
+document.addEventListener("scroll",()=>{
+     console.log(window.scrollY)
+    const navbar= document.getElementById("forlarge");
+    if (window.scrollY>50){
+        navbar.style.backgroundColor="black";
+        console.log("hi")
+    }else{
+        navbar.style.backgroundColor="rgb(123 36 101)";
+        console.log("by")
+    }
+})
