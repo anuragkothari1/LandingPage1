@@ -344,7 +344,7 @@ iframe {
   color:white;
 }
 .nav-a:hover{
-  color:white;
+  color:rgb(186, 221, 11);
 }
 .nav-links:hover{
   background-color: rgba(190, 184, 184, 0.2);
@@ -373,7 +373,7 @@ iframe {
   right:0;
   width:60vw;
   height: 100vh;
-  background-color:rgb(123 36 101) ;
+  background-color:black ;
   z-index: 999;
   display: none;
 
